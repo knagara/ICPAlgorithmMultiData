@@ -1,6 +1,19 @@
 ICPAlgorithmMultiData
 =====================
   
+####ICP Algorithm for Multi Point Clouds  
+  
+[INPUT]  
+* Multi files of point cloud ((X,Y,Z) in global coordinate)  
+  
+[OUTPUT]  
+* Point cloud（(X,Y,Z) in global coordinate）
+* Distance between corresponding points
+* Index of corresponding points
+* Translation and orientation (R,T) 
+
+=====================
+  
 ####ICPアルゴリズムの複数データに対する適用  
   
 入力  
